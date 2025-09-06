@@ -38,7 +38,7 @@ Persona and Context Prompts:
 ### Conclusion
 Result: The various types of Prompts are executed successfully with generated the report.
 
-
+https://docs.google.com/document/d/1NOtbJ4P9m5OcK6HE9zyvOdcYYLmir6x15hxD1kZ6VAI/edit?tab=t.0
 
 
 # Result: Thus the Prompts were exected succcessfully.
